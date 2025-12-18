@@ -7,11 +7,9 @@ Advanced Excel analytics project analysing customer behaviour, vehicle character
 - Income vs vehicle type risk
 - Travel time and exposure risk
 - Regional variation in vehicle risk
-- Vehicle age vs usage intensity
 - Private vs commercial usage risk
 ## Tools Used
 - Advanced Excel
 - Pivot Tables & Charts
 - Descriptive Analytics
-- <img width="1372" height="411" alt="BA" src="https://github.com/user-attachments/assets/8328134a-c6f4-45e7-899a-f2f145a42d8e" />
-
+- <img width="1158" height="533" alt="BA" src="https://github.com/user-attachments/assets/2ebc4cc1-21e0-4255-93db-377b2ca6ffa2" />
