@@ -12,4 +12,4 @@ Advanced Excel analytics project analysing customer behaviour, vehicle character
 - Advanced Excel
 - Pivot Tables & Charts
 - Descriptive Analytics
-- <img width="1158" height="533" alt="BA" src="https://github.com/user-attachments/assets/2ebc4cc1-21e0-4255-93db-377b2ca6ffa2" />
+<img width="1158" height="533" alt="BA" src="https://github.com/user-attachments/assets/2ebc4cc1-21e0-4255-93db-377b2ca6ffa2" />
